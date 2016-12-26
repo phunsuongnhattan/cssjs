@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2i9UADL' target='_blank'><img src='https://lh3.googleusercontent.com/mLJFgYpRXgT1Ys8k74IzXMiQwN-6Pf__no7ojVnpkaXs3E7RWOsCC_QMWaLxuObYECo-CLn3T5gq966QlDLJKNSaxfTLRHk=w1366-h768-rw-no' width='500px'/><br/>cung cấp máy phun sương chính hãng giá tốt</a>. lắp đặt tận nhà bảo hành chu đáo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://lh3.googleusercontent.com/-vHvN3Zr0Dig/WGFFN8t8iEI/AAAAAAAAACg/lwMTUKjTSfsTlMFLMfgdjvqXNtq9KnM8gCJoC/w530-h206-p-rw/baner12.png' width='500px'/><br/>cung cấp máy phun sương chính hãng giá tốt</a>. lắp đặt tận nhà bảo hành chu đáo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
